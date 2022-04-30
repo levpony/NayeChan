@@ -4,5 +4,27 @@
   "artist": "NayeChan",
   "author": "NayeChan",
   "cover": "https://d.furaffinity.net/art/nayechan/1624586856/1624586856.nayechan_rvuqj3s2ne0.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1651349977",
+      "groups": {
+        "": [
+          "https://d.furaffinity.net/art/nayechan/1624586856/1624586856.nayechan_rvuqj3s2ne0.jpg",
+          "https://d.furaffinity.net/art/nayechan/1624586939/1624586939.nayechan_x15ow56qiao.jpg",
+          "https://d.furaffinity.net/art/nayechan/1624706214/1624706214.nayechan_vbl8ovkasi8.jpg",
+          "https://d.furaffinity.net/art/nayechan/1624712935/1624712935.nayechan_amp4wbc4das.jpg",
+          "https://d.furaffinity.net/art/nayechan/1624792345/1624792345.nayechan_brfetmzr5k4__1_.jpg",
+          "https://d.furaffinity.net/art/nayechan/1649006337/1649006337.nayechan_comic_1.jpg",
+          "https://d.furaffinity.net/art/nayechan/1649006490/1649006490.nayechan_comic_-_2.jpg",
+          "https://d.furaffinity.net/art/nayechan/1649193410/1649193144.nayechan_ccc.png",
+          "https://d.furaffinity.net/art/nayechan/1650450262/1650450262.nayechan_photo_2022-04-20_13-17-00.jpg",
+          "https://d.furaffinity.net/art/nayechan/1650450598/1650450417.nayechan_photo_2022-04-20_13-17-00__2_.png",
+          "https://d.furaffinity.net/art/nayechan/1651318964/1651318964.nayechan_hvarpurwp6x9z7uhbndqlqomhcr1f4pegjburian1i0h4lo0oyawh9stvxhv1g7kh_6x8yxggzptgly0mardihlw.jpg",
+          "https://d.furaffinity.net/art/nayechan/1651319177/1651319177.nayechan_qwoxsklcsemfcf1obps272nz5argigtivn3wfm39tl7dhj98gdmr2uawopi0qqvzbiao3znxlni11yrhykeghxuj.jpg"
+        ]
+      }
+    }
+  }
 }
